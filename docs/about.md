@@ -12,10 +12,10 @@ Key Objectives are as follows
 
 ## Reference
 
-* [How to Think Like a Computer Scientist][how-to-think-like-a-cs]
-* [Python For Software Design](http://greenteapress.com/thinkpython2/pythonsd.html)
-* [Think Python First Edition][think-py] (GreenTea Press)
 * [Think Python, 2nd edition][think-py-2e] (GreenTea Press)
+* [Think Python First Edition][think-py] (GreenTea Press)
+* [Python For Software Design](http://greenteapress.com/thinkpython2/pythonsd.html)
+* [How to Think Like a Computer Scientist][how-to-think-like-a-cs]
 
 [how-to-think-like-a-cs]: https://openbookproject.net/thinkcs/python/english3e/
 [htcs-ch3]: https://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html

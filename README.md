@@ -1,6 +1,11 @@
 # About
 
-To use python turtle library to give clear explanations of various concepts.
+To use python `turtle` library, `tkinter` to explore computer science, python programming, modules.
+
+# Installation
+
+Need to install `python3` and `tkinter`. Check the [Tk docs](https://tkdocs.com/tutorial/index.html) to
+check and verify if the latest version is installed.
 
 # References
 
