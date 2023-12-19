@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from tkinter import *
 from tkinter import ttk
 from turtle import RawTurtle

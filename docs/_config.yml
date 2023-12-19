@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Turtle Tourer
+title: Tour The Turtle
 email: null
 description: >- # this means to ignore newlines until "baseurl:"
-   The Turtle Tourer enables exploration of the turtle module in python.
+   Tour The Turtle to explore python's turtle module.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abdullaak7
 github_username:  abdullah85

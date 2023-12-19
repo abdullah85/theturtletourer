@@ -1,14 +1,14 @@
 
 # About
 {:.no_toc}
-The Turtle Tourer enables exploring Python's `turtle` module.
+Tour The Turtle is meant to enable exploring Python's `turtle` module.
 
 * toc
 {:toc}
 
 # Key Objectives
 
-Let's review the key objectives for "The Turtle Tourer".
+Let's review the key objectives for "Tour The Turtle".
 
 ## Visual, Interactive UI for exploring `turtle`
 
