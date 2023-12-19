@@ -1,5 +1,4 @@
-## Tiny Turtle Tours
-
+## The Turtle Tourer
 
 * [About](about)
 * Summation / Arithmetic Progression  
