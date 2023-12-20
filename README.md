@@ -1,17 +1,11 @@
 # About
 
-To use python `turtle` library, `tkinter` to explore computer science, python programming, modules.
+Exokire python's `turtle` library with `tkinter`.
 
 # Installation
 
 Need to install `python3` and `tkinter`. Check the [Tk docs](https://tkdocs.com/tutorial/index.html) to
 check and verify if the latest version is installed.
-
-# References
-
-* https://docs.python.org/3/library/turtle.html
-* https://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html
-* https://en.wikipedia.org/wiki/Turtle_graphics
 
 # Issues
 
@@ -40,3 +34,10 @@ ERROR: No matching distribution found for tkinter
 ## Solution (that worked for me)
 
 `$ sudo apt-get install python3-tk`
+
+# References
+
+* https://docs.python.org/3/library/turtle.html
+* https://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html
+* https://en.wikipedia.org/wiki/Turtle_graphics
+
