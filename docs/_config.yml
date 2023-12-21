@@ -21,10 +21,12 @@
 title: Tour The Turtle
 email: null
 description: >- # this means to ignore newlines until "baseurl:"
-   Tour The Turtle to explore python's turtle module.
+   Explore python's turtle module.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abdullaak7
 github_username:  abdullah85
+
+google_analytics: G-Q3G7DSZ3ZE
 
 # Build settings
 theme: jekyll-theme-minimal

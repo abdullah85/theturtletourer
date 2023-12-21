@@ -1,6 +1,11 @@
 
+[Back to Index](../)
+
+---
+
 # About
 {:.no_toc}
+
 Tour The Turtle is meant to enable exploring Python's `turtle` module.
 
 * toc
@@ -33,5 +38,7 @@ the help of the python module `Tkinter` using the latest version of Python 3
 [think-py-2e]: https://greenteapress.com/wp/think-python-2e
 [think-py-2e-html]: https://greenteapress.com/thinkpython2/html/index.html
 [think-py-turtle-intro]: https://greenteapress.com/thinkpython/html/thinkpython005.html
+
+---
 
 [Back to Index](../)

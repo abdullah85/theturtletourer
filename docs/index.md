@@ -1,4 +1,7 @@
 # Tour The Turtle - Index Page
 
-* [About](about)
+---
 
+## [About](about)
+
+---
